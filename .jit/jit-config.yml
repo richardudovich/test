@@ -1,7 +1,7 @@
 applications:
-- api_domain: app.havaspulse.com
-  application_name: havaspulse
+- api_domain: cron-rc.app.dev.aws.pulseapi.com
+  application_name: https://rc.app.dev.aws.pulseapi.com/
   authentication_mode: non-authenticated
   exclude_paths: []
-  target_url: https://havaspulse.com/
+  target_url: https://rc.app.dev.aws.pulseapi.com/
   type: web
